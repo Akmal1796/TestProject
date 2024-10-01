@@ -9,6 +9,8 @@ function App() {
         <h1>Hello World!</h1>
         <p>This is my first pull request testing!</p>
         <p>This is second testing !</p>
+
+        <p>This is the new testing pull request from the newly created branch</p>
     </>
   )
 }
