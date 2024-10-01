@@ -11,6 +11,7 @@ function App() {
         <p>This is second testing !</p>
 
         <p>This is the new testing pull request from the newly created branch</p>
+        <h2>This is new testing after the new changes of the branch rules</h2>
     </>
   )
 }
